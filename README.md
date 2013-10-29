@@ -1,3 +1,3 @@
-FooCoin (FOO)
+PurpleCoin (PURPLE)
 
 Blah, blah, blah.
